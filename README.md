@@ -1,15 +1,3 @@
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: MANIMEGALAI S
-
-INTERN ID: CT04DH1317
-
-DOMAIN: FRONTEND WEB DEVEOPEMENT
-
-DURATION :4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
-
 DESCRIPTION: Overview
 This project is a fully functional multiple-choice quiz application built with HTML, CSS, and JavaScript. It presents the user with a series of questions one at a time, allows navigation between them, applies a timer for each question, and displays the score at the end. The design is clean, modern, and responsive, aiming to deliver a smooth user experience.
 
